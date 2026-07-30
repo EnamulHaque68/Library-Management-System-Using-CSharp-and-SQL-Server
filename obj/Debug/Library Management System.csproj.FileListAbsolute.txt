@@ -1,0 +1,16 @@
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.exe.config
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.exe
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.pdb
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.exe.config
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.exe
+E:\IsBD\CSharpe\Excercise\CSharpe_Project_2025\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.pdb
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.exe.config
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.exe
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\bin\Debug\CSharpe_Project_2025.pdb
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.exe.config
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.exe
+E:\IsBD\CSharpe\Project\LibraryManagementSystem\CSharpe_Project_2025\obj\Debug\CSharpe_Project_2025.pdb
